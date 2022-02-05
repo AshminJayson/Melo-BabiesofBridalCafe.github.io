@@ -11711,3 +11711,8 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.logo_image {
+  width: 100%;
+  height: auto;
+}
